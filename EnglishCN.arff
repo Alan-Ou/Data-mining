@@ -1,0 +1,6 @@
+@RELATION national-dialect
+
+@ATTRIBUTE corpus	string
+@ATTRIBUTE class 	{'China','South Korea', 'Singapore'}
+
+@DATA
